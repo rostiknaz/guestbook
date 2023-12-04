@@ -5,7 +5,7 @@
             "repo": "github.com/symfony/recipes",
             "branch": "main",
             "version": "1.0",
-            "ref": "fcf2e044bcd90c6f2f5a6c050645e77fb3bf31c7"
+            "ref": "15d81f77edd7b45de4b4f18cca1188b017d385d0"
         },
         "files": [
             ".blackfire.yaml"
